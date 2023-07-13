@@ -9,7 +9,7 @@ weight: 15
 
 ## Overview
 
-Resilience is the key for any organization wanting to thrive in an ever-changing world, which is obviously s very important factor for any PKI implementation. The PKI is planned to be trusted for multiple years, if not decades. Therefore, the ability to absorb and adapt to the unpredictability, while continuing to deliver on the objectives is becoming mandatory.
+Resilience is the key for any organization wanting to thrive in an ever-changing world, which is obviously a very important factor for any PKI implementation. The PKI is planned to be trusted for multiple years, if not decades. Therefore, the ability to absorb and adapt to the unpredictability, while continuing to deliver on the objectives is becoming mandatory.
 
 A robust resilience framework helps organizations future-proof their PKI oriented business, detailing key principles, attributes and activities that are followed to ensure that the PKI implementation will be trusted, secure, and effective all the time.
 
