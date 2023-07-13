@@ -155,7 +155,7 @@ Critical events should be immediately alerted and resolved according to incident
 
 #### Assessment
 
-- Review of requirements for alerting on critical event, including security sensitive events
+- Review of requirements for alerting on critical events, including security sensitive events
 - Review of monitoring implementation
 - Review of documentation of critical events
 - Interviews with personnel to check the understanding of critical events and their handling
